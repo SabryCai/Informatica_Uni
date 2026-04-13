@@ -1,6 +1,7 @@
 Prof: Bonatti
 
 Modalità d'esame: solo scritto
+
 **NO PREAPPELLO O INTERCORSO**
 
 Date attuali: 
