@@ -1,9 +1,11 @@
-Prof: Finzi
+**Prof:** Alberto Finzi
 
-Modalità d'esame: scritto ed orale (obbligatorio)
+**Link docenti unina:** https://www.docenti.unina.it/alberto.finzi
+
+**Modalità d'esame:** scritto ed orale (obbligatorio)
 
 **Possibilità di sostenere il preappello a maggio MA con un minimo di presenze (consigliato seguire)**
 
-Date d'esame attuali: non vi sono ancora
+**Date d'esame attuali:** non vi sono ancora
 
-Materiale didattico disponibile su telegram con slide, dispense e lezioni registrate
+**Consigli**: se non si ha la possibilità di seguire le lezioni in presenza, vi sono delle lezioni registrate su telegram 
