@@ -4,7 +4,7 @@
 
 **Modalità d'esame**: scritto + orale (obbligatorio)
 
-**Durante il corso fa il preappello dello scritto che consiste in: 
+Durante il corso fa il **preappello dello scritto** che consiste in: 
                                                                     Test 1
                                                                     Intercorso 1 
                                                                     Test 2 
