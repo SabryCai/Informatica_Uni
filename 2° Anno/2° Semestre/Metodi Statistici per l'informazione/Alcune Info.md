@@ -7,3 +7,5 @@
 **NO PREAPPELLO O INTERCORSO**
 
 **Date attuali:** non vi sono ancora
+
+(**NB** info relative all'anno 2025/2026)
