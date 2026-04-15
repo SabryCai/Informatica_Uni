@@ -16,3 +16,4 @@ il **voto dello scritto** sarà dato dal: voto più alto tra i due test per il 1
                                               Max[test 1, test2]×10%  + [(intercorso 1 + intercorso 2)/2]×90% 
 
 I Test consistono principalmente in definizioni, le intercorso in esercizi
+(**NB** info relative all'anno 2025/2026)
