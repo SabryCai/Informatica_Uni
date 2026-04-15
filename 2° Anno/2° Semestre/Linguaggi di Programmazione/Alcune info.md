@@ -11,9 +11,8 @@
 **Date attuali:**
 
               29 giugno
-	      
               22 luglio
-	      
               15 settembre
-	      
               20 ottobre
+			  
+(**NB** info relative all'anno 2025/2026)
