@@ -4,7 +4,7 @@
 
 **Link del suo sito in cui pubblica i risultati:** http://wpage.unina.it/benerece
 
-**Modalità d'esame**: librerie + scritto + orale facoltativo (=> solo scritto) 
+**Modalità d'esame**: librerie + scritto + orale facoltativo (=> solo scritto) (**NB** relativa all'anno 2025/2026)
 
 La consegna delle librerie ed il superamento di esse servono per accedere allo scritto, vi è una data al mese per la consegna con man mano una modifica aggiuntiva alle librerie 
 
