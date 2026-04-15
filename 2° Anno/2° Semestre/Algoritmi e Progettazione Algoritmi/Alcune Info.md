@@ -9,6 +9,7 @@
 **Modalità d'esame**: scritto + orale facoltativo (=> solo scritto, niente libreria)
 
 **Date attuali:**
+
                     16 giugno
                     14 luglio
                     3 Settembre
