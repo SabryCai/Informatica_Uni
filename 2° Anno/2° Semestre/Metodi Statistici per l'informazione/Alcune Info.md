@@ -7,6 +7,7 @@
 **NO PREAPPELLO O INTERCORSO**
 
 **Date attuali:**
+
                           15 giugno
                           13 luglio
                           16 settembre
