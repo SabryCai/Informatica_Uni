@@ -1,4 +1,5 @@
 Tutte le prove che ho svolto in prossimità dello scritto e corrette da claude.
+
 **Tipologie di esercizi:** 
 1. Scheduling della CPU, chiede di usare l'algoritmo RR (Round Robin) dato un certo quanto di tempo, SJF (Shortest Job First), SRJF (Shortest Remaining Job First, semplicemente la versione preemptive del SJF), Priorità con prelazione
 2. Dà un piccolo programma ed i pid dei processi, si eseguono tutti i processi a partire da quello padre e qui è importante ricordare che la fork() restituisce 0 al processo figlio ed al padre fornisce il pid del figlio che ha creato
