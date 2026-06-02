@@ -8,5 +8,5 @@ in attesa di ricevere il pthread_cond_signal. quando il thread ha una condizione
 4. Deadlock: si usa l'algoritmo del banchiere, tutto spiegato passo passo nei pdf per questo esercizio
 5. Memoria paginata, si convertono i dati in potenze di 2 (non l'ho fatto ma è consigliabile usare i logaritmi in base due) in base a ciò che chiede la domanda
 6. Gestione dei Page Fault, chiede di usare l'algoritmo FIFO (First In First Out, difficile che lo chieda), LRU (Least Recently Used), OPT (Ottimo) 
-7. Dati TOT cilindri e la testina sul disco chiederà di usare C-LOOK (Circolare e arriva all'ultima richiesta, non all'estremità del disco), LOOK (come il C-LOOK ma non è circolare quindi torna indietro), SCAN, C-SCAN (arriva all'estremità del disco), SSTF (và alla richiesta più vicina), FCFS (si segue l'ordine di arrivo delle richieste)
-8 e 9 sono domande di teoria 
+7. Dati TOT cilindri e la testina sul disco chiederà di usare C-LOOK (Circolare e arriva all'ultima richiesta, non all'estremità del disco), LOOK (come il C-LOOK ma non è circolare quindi torna indietro), SCAN, C-SCAN (arriva all'estremità del disco), SSTF (và alla richiesta più vicina), FCFS (si segue l'ordine di arrivo delle richieste).
+8. e la 9 sono domande di teoria in genere
