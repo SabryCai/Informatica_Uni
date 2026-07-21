@@ -2,6 +2,6 @@ Questi sono appunti creati in vista dell'orale e basati sull'intero programma an
 
 Potrebbe mancar comunque qualcosa, ma il 90% è tutto qui. 
 
-Buono studio che Dio sia con voi. 
+Buono studio, che Dio sia con voi. 
 
 Ps. per l'orale state tranquilli che alla prof delle dimostrazioni interessa poco ed è tranquilla, lo scritto è un inculata nella maggior parte delle volte
