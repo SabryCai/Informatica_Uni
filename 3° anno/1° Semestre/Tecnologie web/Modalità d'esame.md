@@ -1,6 +1,7 @@
 **Scritto:** domande a risposta multipla e domande a risposta aperta in cui può esser chiesto anche di analizzare un breve codice, o spiegare qualche metodologia. (saranno dati dei facsimile durante il corso)
 
 **Ci saranno prove intercorso:**
+
                                       1 fine ottobre sulla prima metà del corso fatta fino a quel momento
                                       1 fine dicembre sulla parte restante del corso
                                       
