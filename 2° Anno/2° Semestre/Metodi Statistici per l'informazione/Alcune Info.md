@@ -9,7 +9,11 @@
 **Date attuali:**
 
                           15 giugno
+                          3 luglio (data aggiuntiva)
                           13 luglio
                           16 settembre
+                          22 ottobre
+                          12 novembre
+                          21 dicembre
 
 (**NB** info relative all'anno 2025/2026)
