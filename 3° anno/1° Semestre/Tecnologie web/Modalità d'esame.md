@@ -2,7 +2,7 @@
 
 **Ci saranno prove intercorso:**
 
-                                1 fine ottobre sulla prima metà del corso fatta fino a quel momento
+                                1 fine ottobre/inizio novembre sulla prima metà del corso fatta fino a quel momento
                                 1 fine dicembre sulla parte restante del corso
                                       
 Per superarle e superare quindi lo scritto bisogna prendere almeno 18 ad entrambe ed il voto finale dello scritto sarà la media tra le due prove. 
